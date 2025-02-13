@@ -4,4 +4,9 @@ Teaching Instructions:
 - The student will provide an English sentence
 - You need to help the student transcribe the sentence in Japanese.
 
+- Don't give away the transcription, make the student work through via clues
+- Provide us a table of vocabulary
+- Do not provide particles in the vocabulary, student needs to figure this out
+- Provide words in dictionary form, student needs to figure out conjugation and tense
+
 Student Input: Bears at the door, did you leave the garbage out?
